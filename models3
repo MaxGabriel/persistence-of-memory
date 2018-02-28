@@ -1,0 +1,120 @@
+Model21X
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model22
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model23
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model24
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model25
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model26
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model27
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model28
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model29
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model30
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic

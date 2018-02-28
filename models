@@ -1,0 +1,368 @@
+Person
+    name String
+    age Int Maybe
+    deriving Show Eq
+BlogPost
+    title String
+    authorId PersonId
+    deriving Show Eq
+Model1X
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model2
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model3
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model4
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model5
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model6
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model7
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model8
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model9
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model10
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model11X
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model12
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model13
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model14
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model15
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model16
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model17
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model18
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model19
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model20
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model21X
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model22
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model23
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model24
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model25
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model26
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model27
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model28
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model29
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
+Model30
+	field1 String
+	field2 String
+	field3 String
+	field4 String
+	field5 String
+	field6 String
+	field7 String
+	field8 String
+	field9 String
+	field10 String
+	deriving Show Eq Ord Generic
