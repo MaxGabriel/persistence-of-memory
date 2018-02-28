@@ -39,7 +39,11 @@ packages:
 - .
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
-extra-deps: [/Users/maximiliantagher/Documents/Clones/Haskell/yesodweb/persistent/persistent-template]
+extra-deps:
+  - git: https://github.com/naushadh/persistent.git # Need > this commit to get a fix for presigned URLs, which the client uses to upload to S3.
+    commit: bc248972cdcd627d2a963018c1a9958232479f64
+    subdirs:
+      - persistent-template
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
